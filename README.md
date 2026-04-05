@@ -22,3 +22,8 @@ Auto uses strict internal directives to manage its logic loop. The Python backen
 *   `<REMEMBER>fact</REMEMBER>` - Writes a new fact to `memory.json`.
 *   `<ACTION>command</ACTION>` - Executes physical PC commands.
 *   `<TESTCODE>python_code</TESTCODE>` - Writes code to a local sandbox file, runs it, and feeds terminal errors/successes back to the AI.
+
+
+https://github.com/user-attachments/assets/df7de0ea-cd68-41f4-9f05-7b30680a8128
+
+![20260405_170700](https://github.com/user-attachments/assets/1d8e1b1a-4a77-4093-a09c-f7b49a2a3940)
